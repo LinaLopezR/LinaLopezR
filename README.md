@@ -9,7 +9,6 @@
 
 <h3 align ="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/fernandalo82" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fernandalo82"alto="30" ancho="40" /></a>
-<a href="https://fb.com/lina lópez rosas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/facebook.svg" alt="lina lópez rosas" height="30" width="40" /></a>
-<a href="https://instagram .com/linalrosas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /instagram.svg" alt="linalrosas" height="30" width="40" /></a>
+<a href="https://fb.com/lina lópez rosas" target="blank"><img align="center " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lina lópez rosas" height="30" width="40" /></a>
+<a href="https://instagram.com/linalrosas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="linalrosas" height="30" width="40" /></a>
 </p>
